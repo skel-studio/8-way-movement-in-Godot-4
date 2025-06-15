@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Godot-4.x-%2523478cbf" alt="">
 
-demo: https://drive.google.com/file/d/1OKjWYZHzxAk7-bTCeyuwRMerKYizqnnY/view?usp=drive_link
+<a href="https://drive.google.com/file/d/1OKjWYZHzxAk7-bTCeyuwRMerKYizqnnY/view?usp=drive_link">Demo</a>
 
 <p>This script controls the main character in a 2D game, implementing movement, animations, health system, and death handling.</p>
 <h2>Key Features</h2>
